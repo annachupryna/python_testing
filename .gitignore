@@ -1,4 +1,4 @@
 .pytest_chache/
 */pycache
- __pycache__/
- .idea`
+__pycache__/
+.idea
